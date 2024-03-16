@@ -50,9 +50,9 @@ int main (void)
         Fonct_welcome();
         scanf(" %c",&carac);
         //revoir la partie
-    }while(carac != 'O' && carac != 'o');
+    }while(carac != 'A' && carac != 'a');
 
-
+    system("clear");
 
     do {
 
